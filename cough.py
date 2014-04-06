@@ -52,7 +52,6 @@ def get_incremented_key(key_signature_index, key_increment, major_minor_pairs):
 
 def main():
     major_minor_pairs = create_keys()
-    print major_minor_pairs
     chosen_key_signature = random.randint(0, len(major_minor_pairs) - 1)
     key_type = random.randint(0, 1)  # 0 for major, 1 for minor
     print "major_minor_pairs"
