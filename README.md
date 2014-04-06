@@ -5,7 +5,7 @@ I'm currently trying to learn the circle of fifths; mainly for the purposes of
 It's useful to know the relative key, as well as the key's neighbours.
 
 The basic order of fifths is pretty simple: FCGDAEB, but I still find trying 
-to work out all the possibilities quickly
+to work out all the possibilities quickly in my head tricky.
 
 ## Usage
 Run `cough.py`; it randomly picks a key.
