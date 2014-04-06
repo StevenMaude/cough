@@ -61,7 +61,7 @@ def main():
     print "The relative key is", \
         major_minor_pairs[chosen_key_signature][key_type - 1]
 
-    for increment in ['+1', '-1', '+2', '-2']:
+    for increment in ['+1', '-1', '+2', '-2', '+7', '-7']:
         incremented_key = get_incremented_key(chosen_key_signature,
                                               int(increment),
                                               major_minor_pairs)
