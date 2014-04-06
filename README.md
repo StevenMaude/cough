@@ -1,5 +1,5 @@
 # cough - circle of fifths memory tester
-I'm currently trying to learn the circle of fifths; mainly for the purposes of 
+I'm currently trying to learn the circle of fifths, mainly for the purposes of
 [harmonic mixing](https://en.wikipedia.org/wiki/Harmonic_mixing).
 
 It's useful to know the relative key, as well as the key's neighbours.
